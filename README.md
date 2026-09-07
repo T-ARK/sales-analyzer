@@ -1,4 +1,4 @@
-# ARK Sales Data Analyzer
+# Sales Data Analyzer
 
 An interactive, high-performance web application built to analyze large sales datasets (100,000+ to 1,000,000+ rows) using MapReduce algorithms and render modern BI analytics dashboards in seconds.
 
